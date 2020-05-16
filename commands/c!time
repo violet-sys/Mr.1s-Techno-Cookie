@@ -1,0 +1,4 @@
+$nomention
+$time[$message[1]/$message[2]]-- you can add message[3]
+
+$week$hourh$minutemin$ss
