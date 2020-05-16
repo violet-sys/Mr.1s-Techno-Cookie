@@ -1,0 +1,6 @@
+$nomention $ban
+$argsCheck[2;**Wrong command type. Try this !ban {@username} {reason}**]
+$title[User Has Been Banned!]
+$description[Banned: <@$mentioned[1]>
+Banned by: <@$authorID>
+Reason: $noMentionMessage]

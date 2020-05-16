@@ -1,0 +1,7 @@
+$nomention
+$title[Kissed user!]
+$description[🥴🥴😳😳 you KISSED!!!!! 😳😳🥴🥴
+$randomText[https://bit.ly/tckiss1;https://bit.ly/tckiss2;https://bit.ly/tckiss3]]
+$footer[kissy kiss kiss 😳😉💞💞💝💝 • bot made by ava]
+$color[ffc291]
+$cooldown[5s;woahh!!!! slow down there 😳😳😳😳🥴🥴🥴🥴]

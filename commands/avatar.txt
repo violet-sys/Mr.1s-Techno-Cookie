@@ -1,0 +1,5 @@
+$userInfo[{username}#{discriminator}]$image[$userAvatar[$mentioned[1]]] 
+$title[**User's avatar!**]
+$nomention
+$allowMention
+$color[#ff0000]

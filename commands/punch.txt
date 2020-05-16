@@ -1,0 +1,8 @@
+$nomention
+$title[AAAAAAAA]
+$description[me ANGRY!!! me..... ANGRYYYYYYYYY!!!!!!!!!!!!!!!!
+😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡😡🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬
+$randomText[https://bit.ly/tcpunch1;https://bit.ly/tcpunch2;https://bit.ly/tcpunch3]]
+$footer[ANGRYUYYYYYYEIG🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬😡😡😡😡😡😡 • bot made by ava]
+$color[ffbc87]
+$cooldown[5s;what the darn dont kill everyine🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬🤬😡😡😡😡😡😡😡😡😡😡]

@@ -1,0 +1,12 @@
+$nomention
+$allowMention
+$useChannel[mentionChannels[1]]
+$title[🎊Giveaway🎉]
+$color[#ff2052]
+$description[$noMentionMessage]
+$footer[Giveaway started by $username at $hour:$minute]
+$addTimestamp
+$argsCheck[>2;WRONG COMMAND TYPE ‘#giveaway #channel message’]
+$onlyAdmin[Only administrators can do this!]
+$addReactions[🎉🎊]
+$useChannel[$mentionChannels[<;yes]

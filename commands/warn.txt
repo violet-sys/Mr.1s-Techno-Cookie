@@ -1,0 +1,7 @@
+$nomention
+$warn
+$title[Warn]
+$color[#FF0000]
+$footer[Warned by $username. • bot made by ava]
+$description[$allowMention was warned for $message.]
+$onlyAdmin[you don't have enough permissions.]

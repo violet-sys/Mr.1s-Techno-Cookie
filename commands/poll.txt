@@ -1,0 +1,6 @@
+$nomention
+$title[Poll Time!]
+$onlyAdmin[Only Administrators can use this command!]
+$addReactions[👍;👎]
+$description[$message] 
+$footer[$username's poll • bot made by ava]

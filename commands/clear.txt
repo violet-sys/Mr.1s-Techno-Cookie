@@ -1,0 +1,8 @@
+$nomention
+$title[Cleared Messages]
+$color[00FF00]
+$description[**$username** deleted **$message** messages!]
+$footer[$message messages cleared!]
+$deletecommand
+$argsCheck[1;Hey! You need to add a certain amount of messages to be deleted!]
+$clear[1000]

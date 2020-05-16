@@ -1,0 +1,8 @@
+$nomention
+$title[Kicked user!]
+$description[User has been kicked for $noMentionMessage.]
+$footer[$username • bot made by ava]
+$color[ffc77f]
+$kickMention[You've been kicked by $username for $noMentionMessage.]
+$blackListIDs[people persons;You are not allowed to execute this command.]
+$cooldown[5s;You need to wait to use this command.]
